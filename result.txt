@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.4.1, pluggy-1.6.0
+rootdir: /home/pravin/mlops-week4
+collected 2 items
+
+tests/test_data_validation.py .                                          [ 50%]
+tests/test_model_evaluation.py .                                         [100%]
+
+============================== 2 passed in 3.46s ===============================
